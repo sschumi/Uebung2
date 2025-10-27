@@ -1,3 +1,5 @@
+package h2;
+
 public class H2_main {
     public static void main(String[] args){
         int i=15, j=7, k= 9, min = 0, max = 0;

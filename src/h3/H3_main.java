@@ -1,3 +1,5 @@
+package h3;
+
 public class H3_main {
     public static void main(String[] args){
         int i=140, j=150, k=-10;
